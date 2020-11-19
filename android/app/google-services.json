@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034960007115",
+    "firebase_url": "https://flash-chat-affd7.firebaseio.com",
+    "project_id": "flash-chat-affd7",
+    "storage_bucket": "flash-chat-affd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034960007115:android:f66fb3e25dbe962df4904e",
+        "android_client_info": {
+          "package_name": "co.Mayank.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034960007115-2ttodd21tspke4n4qf8riaudnui1vl7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYb-UQMaM56PgzfO950UvKL-iWvE5u3QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034960007115-2ttodd21tspke4n4qf8riaudnui1vl7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
